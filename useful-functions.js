@@ -14,7 +14,7 @@ function shuffle(array) {
       array[i] = t;
     }
   
-    return array;
+    return array[0];
   }
 
 
